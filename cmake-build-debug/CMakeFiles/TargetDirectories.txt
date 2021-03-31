@@ -1,0 +1,4 @@
+/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug/CMakeFiles/openmp_test_clion.dir
+/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug/CMakeFiles/AxSecoes.dir

@@ -1,0 +1,4 @@
+/snap/clion/145/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/bin/clang -DCMAKE_CXX_COMPILER=/usr/bin/clang++ -G "CodeBlocks - Unix Makefiles" /home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="AxSecoes"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="openmp_test_clion">
+				<Option output="/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug/openmp_test_clion" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/10/../../../../include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/backward"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/llvm-10/lib/clang/10.0.0/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 openmp_test_clion"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="openmp_test_clion/fast">
+				<Option output="/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug/openmp_test_clion" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/10/../../../../include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/backward"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/llvm-10/lib/clang/10.0.0/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 openmp_test_clion/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AxSecoes">
+				<Option output="/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug/AxSecoes" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/10/../../../../include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/backward"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/llvm-10/lib/clang/10.0.0/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 AxSecoes"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AxSecoes/fast">
+				<Option output="/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug/AxSecoes" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/10/../../../../include/x86_64-linux-gnu/c++/10"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/10/../../../../include/c++/10/backward"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/llvm-10/lib/clang/10.0.0/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 AxSecoes/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/main.cpp">
+			<Option target="openmp_test_clion"/>
+			<Option target="AxSecoes"/>
+		</Unit>
+		<Unit filename="/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

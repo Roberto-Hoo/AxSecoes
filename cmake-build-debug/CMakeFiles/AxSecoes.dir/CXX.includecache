@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rhoo/Documentos/CParalelaUfrgs2020_2/AxSecoes/main.cpp
+omp.h
+-
+ctime
+-
+gsl/gsl_matrix.h
+-
+gsl/gsl_vector.h
+-
+gsl/gsl_rng.h
+-
+gsl/gsl_blas.h
+-
+cstdio
+-
+iomanip
+-
+iostream
+-
+cstdlib
+-
+

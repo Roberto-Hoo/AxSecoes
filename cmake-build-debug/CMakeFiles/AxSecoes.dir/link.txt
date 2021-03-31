@@ -1,0 +1,1 @@
+/usr/bin/clang++   -std=c++14 -fopenmp -g   CMakeFiles/AxSecoes.dir/main.cpp.o  -o AxSecoes  -lgsl -lgslcblas -lm 
